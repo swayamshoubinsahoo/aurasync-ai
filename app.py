@@ -4,12 +4,12 @@ import numpy as np
 import plotly.express as px
 
 st.set_page_config(
-    page_title="AuraSync AI | Smart Building Management",
+    page_title="AuraSync | Green Infrastructure",
     page_icon="🌿",
     layout="wide"
 )
 
-st.title("🌿 AuraSync AI: Autonomous Green Infrastructure")
+st.title("🌿 AuraSync: Green Infrastructure")
 st.caption("Edge-Vision & IoT-Driven Dynamic Commercial Energy & HVAC Management System")
 st.markdown("---")
 
