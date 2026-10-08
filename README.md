@@ -1,4 +1,4 @@
-# AuraSync AI: Autonomous Green Infrastructure
+# AuraSync : Green Infrastructure
 
 AuraSync AI is a responsive building management model that dynamically regulates commercial energy consumption and HVAC operations based on real-time spatial occupancy and environmental data.
 
